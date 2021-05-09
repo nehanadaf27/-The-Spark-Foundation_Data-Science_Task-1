@@ -1,1 +1,5 @@
-# -The-Spark-Foundation_Data-Science_Task-1
+The-Spark-Foundation_Data-Science_Task-1
+THE SPARK FOUNDATION INTERNSHIP 
+GRIPMAY21
+Task1: Prediction using Supervised ML
+Problem Statement: Predict the percentage of an student based on the no of study hours. I will be performing the following steps:- Data reading and understanding ExploratoryData Analysis Building a Simple Regression Model Model Evaluation and Prediction
